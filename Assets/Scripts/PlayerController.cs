@@ -5,6 +5,12 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float speed;
+    Animator animator;
+
+    private void Start()
+    {
+        animator = this.GetComponent<Animator>();
+    }
 
     void Update()
     {
@@ -15,6 +21,9 @@ public class PlayerController : MonoBehaviour
     {
         float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Vertical");
+
+        animator.SetFloat("xWalk", x);
+        animator.SetFloat("yWalk", y);
 
         if (x != 0 || y != 0)
         {
