@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/Home/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Downloads/RPG-WWISE/wwise project/SGTBN-WWISE/</ProjectRoot>
+		<SourceFilesRoot>/Users/Home/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Downloads/RPG-WWISE/wwise project/SGTBN-WWISE/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/Home/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Downloads/RPG-WWISE/wwise project/SGTBN-WWISE/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/Home/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Downloads/RPG-WWISE/wwise project/SGTBN-WWISE/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1850812173">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
