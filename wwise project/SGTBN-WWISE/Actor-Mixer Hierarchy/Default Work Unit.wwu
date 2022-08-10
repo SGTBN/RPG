@@ -1,6 +1,332 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{5DA31E8E-4869-4D7C-8714-0DF6E44A1F22}" SchemaVersion="103">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{5DA31E8E-4869-4D7C-8714-0DF6E44A1F22}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{5DA31E8E-4869-4D7C-8714-0DF6E44A1F22}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchContainer Name="Footsteps" ID="{63CD2DF1-97C7-42D9-9BBC-3B9F02D7950C}" ShortID="951298080">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+						</Reference>
+						<Reference Name="DefaultSwitchOrState">
+							<ObjectRef Name="Concrete" ID="{5E0F350C-2F76-455F-B897-1D5C5C8C4195}" WorkUnitID="{E3776844-A040-4E4F-82B8-162898D1D370}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+						</Reference>
+						<Reference Name="SwitchGroupOrStateGroup">
+							<ObjectRef Name="Material" ID="{1A526235-8E90-40CB-84B0-4807D9FB62AA}" WorkUnitID="{E3776844-A040-4E4F-82B8-162898D1D370}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<RandomSequenceContainer Name="Concerete" ID="{34AE8CA3-2585-48DC-9E8B-C1760B02B939}" ShortID="6623079">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="footsteps concrete-001" ID="{B0A4D56C-65CD-46D8-81E0-B7D809757253}" ShortID="998904811">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-001" ID="{28C0DBC9-7F5C-4BC9-8B30-7EC451854B48}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-001.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="805106190"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-001" ID="{28C0DBC9-7F5C-4BC9-8B30-7EC451854B48}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-002" ID="{653A2F9A-37C3-489F-B83A-71675B4BE05E}" ShortID="458709551">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-002" ID="{2D272006-E3B7-4CCF-86AF-A4533BEDD5C8}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-002.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="641505373"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-002" ID="{2D272006-E3B7-4CCF-86AF-A4533BEDD5C8}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-003" ID="{0163FC00-6A23-4EB6-8E9B-7562E5967818}" ShortID="836258844">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-003" ID="{1B53E102-B267-422E-A6C7-BFAC095111BC}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-003.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="363954935"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-003" ID="{1B53E102-B267-422E-A6C7-BFAC095111BC}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-004" ID="{885D4054-8400-4AED-8F07-FFD95CDF1873}" ShortID="470354908">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-004" ID="{54AA4510-A16D-4C70-8055-47F990D7EEC8}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-004.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1065413393"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-004" ID="{54AA4510-A16D-4C70-8055-47F990D7EEC8}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-005" ID="{47F99D7E-19A5-4CD9-AB2E-2DA87B8B0FA4}" ShortID="605019667">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-005" ID="{97382665-ED37-4791-A7AE-5D88284355FD}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-005.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1068666085"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-005" ID="{97382665-ED37-4791-A7AE-5D88284355FD}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-006" ID="{B8B1103D-3769-46AE-B7C7-FE387D19C3FD}" ShortID="36630173">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-006" ID="{1E196772-3BA0-4ABC-BC8C-F8A8901C282E}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-006.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1067414705"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-006" ID="{1E196772-3BA0-4ABC-BC8C-F8A8901C282E}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-007" ID="{D4303BDA-8138-40D4-8420-69C33DBD4AE3}" ShortID="340064531">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-007" ID="{B4BC5C8B-0E66-43A3-BE73-DC05CCE15FB8}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-007.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="835249162"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-007" ID="{B4BC5C8B-0E66-43A3-BE73-DC05CCE15FB8}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-008" ID="{D8058B6F-4847-4AA4-AEE0-0C5272443B5C}" ShortID="449102284">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-008" ID="{039FE221-3E44-49FB-8DA1-E529C9119609}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-008.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="497318371"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-008" ID="{039FE221-3E44-49FB-8DA1-E529C9119609}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-009" ID="{6D5E6FF1-EC92-43A7-A3B5-B6A1E87434FC}" ShortID="352153044">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-009" ID="{7596A644-47D1-447A-8251-157C4D3B2DCE}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-009.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="974890941"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-009" ID="{7596A644-47D1-447A-8251-157C4D3B2DCE}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-010" ID="{F7F6F274-60E5-4660-B5A4-BA688F312D21}" ShortID="545638970">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-010" ID="{4E60A0FF-E8B8-418B-96DD-160A52737EDA}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-010.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="132312056"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-010" ID="{4E60A0FF-E8B8-418B-96DD-160A52737EDA}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-011" ID="{F85A06F2-3862-4254-BDA7-11D97AF0976F}" ShortID="818986499">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-011" ID="{A967E0C1-A774-42DD-89E5-7A48FD566D23}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-011.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="502024235"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-011" ID="{A967E0C1-A774-42DD-89E5-7A48FD566D23}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="footsteps concrete-012" ID="{6E0C8F7C-F153-47DD-A2BB-745CC567FD57}" ShortID="166095458">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{90C364E1-A2B1-43BC-A7B4-F2F933B03DD5}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{05C95318-9A28-4D50-BEDD-6EB24E3D4428}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="footsteps concrete-012" ID="{58DE0F75-773D-4EF7-9D96-C293F5D5248C}">
+											<Language>SFX</Language>
+											<AudioFile>footsteps concrete-012.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="375832139"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="footsteps concrete-012" ID="{58DE0F75-773D-4EF7-9D96-C293F5D5248C}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+					</ChildrenList>
+					<ObjectLists/>
+					<GroupingInfo>
+						<GroupingBehaviorList>
+							<GroupingBehavior>
+								<ItemRef Name="Concerete" ID="{34AE8CA3-2585-48DC-9E8B-C1760B02B939}"/>
+							</GroupingBehavior>
+						</GroupingBehaviorList>
+						<GroupingList>
+							<Grouping>
+								<SwitchRef Name="Concrete" ID="{5E0F350C-2F76-455F-B897-1D5C5C8C4195}"/>
+								<ItemList>
+									<ItemRef Name="Concerete" ID="{34AE8CA3-2585-48DC-9E8B-C1760B02B939}"/>
+								</ItemList>
+							</Grouping>
+						</GroupingList>
+					</GroupingInfo>
+				</SwitchContainer>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

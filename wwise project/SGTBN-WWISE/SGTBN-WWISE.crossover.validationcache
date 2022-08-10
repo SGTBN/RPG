@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Virtual Acoustics\Default Work Unit.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Triggers\Default Work Unit.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Switches\Default Work Unit.wwu" DateLow="1659975194" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\States\Default Work Unit.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Soundcaster Sessions\Factory Tencent GME.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\SoundBanks\Default Work Unit.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\SGTBN-WWISE.wproj" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\SGTBN-WWISE.crossover.wsettings" DateLow="1660047911" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Queries\Factory Queries.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Queries\Default Work Unit.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Presets\Factory Spatial Audio.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Presets\Factory Reflect.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Presets\Default Work Unit.wwu" DateLow="1659967655" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Modulators\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Mixing Sessions\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Metadata\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Game Parameters\Factory SoundSeed Grain.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Game Parameters\Factory Motion.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Game Parameters\Factory Igniter Live Synth Game Syncs.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Game Parameters\Factory Igniter Live Game Syncs.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Game Parameters\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Events\Factory Tencent GME.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Events\Default Work Unit.wwu" DateLow="1659975194" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory Reflect.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory McDSP Effects.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory Mastering Suite.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory iZotope Filters.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory iZotope Dynamics.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory iZotope Delay.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory iZotope Box Modeler.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory Effects.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory Convolution Reverb Effects Stereo.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory Convolution Reverb Effects Ambisonics.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory Auro Headphone.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\BOOM Library IR - R&amp;S - Stereo.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\BOOM Library IR - R&amp;S - HOA.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\BOOM Library IR - R&amp;S - FOA.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Effects\BOOM Library IR - Outdoor.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Conversion Settings\Factory SoundSeed Grain.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Conversion Settings\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Control Surface Sessions\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Audio Devices\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Attenuations\Default Work Unit.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Actor-Mixer Hierarchy\Factory Tencent GME.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Actor-Mixer Hierarchy\Factory SoundSeed Grain.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Actor-Mixer Hierarchy\Factory Igniter Live.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Actor-Mixer Hierarchy\Factory Igniter Live Synth.wwu" DateLow="1659967562" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\RPG\wwise project\SGTBN-WWISE\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1659975194" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Downloads\RPG-WWISE\wwise project\SGTBN-WWISE\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1654697277" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Downloads\RPG-WWISE\wwise project\SGTBN-WWISE\Virtual Acoustics\Default Work Unit.wwu" DateLow="1659709936" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Downloads\RPG-WWISE\wwise project\SGTBN-WWISE\Triggers\Default Work Unit.wwu" DateLow="1659709936" DateHigh="0"/>
