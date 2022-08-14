@@ -11,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c4c47b6e5b7bf46aa9d48f591772924e, type: 3}
   m_Name: AkWwiseProjectData
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier:
   AcousticTextureWwu:
   - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
     PathAndIcons:
@@ -23,7 +23,7 @@ MonoBehaviour:
       guid: 3a1bea03ed1c87459ac010bc827694d6
     ParentPath: Virtual Acoustics\Default Work Unit
     guid: 3a1bea03ed1c87459ac010bc827694d6
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418969494775808
     List: []
   - PhysicalPath: Virtual Acoustics\Factory Acoustic Textures.wwu
@@ -36,7 +36,7 @@ MonoBehaviour:
       guid: 6b663d46a83ca54f8b4a5fef12b883f6
     ParentPath: Virtual Acoustics\Factory Acoustic Textures
     guid: 6b663d46a83ca54f8b4a5fef12b883f6
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585469096084775808
     List:
     - name: Acoustic_Banner
@@ -302,7 +302,7 @@ MonoBehaviour:
       guid: 1853c905289a504dbedd6eb24e3d4428
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: 1853c905289a504dbedd6eb24e3d4428
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418953634775808
     List:
     - name: Master Audio Bus
@@ -344,7 +344,7 @@ MonoBehaviour:
       guid: cc1b52907143a94ab1237b1b5fbf4b80
     ParentPath: SoundBanks\Default Work Unit
     guid: cc1b52907143a94ab1237b1b5fbf4b80
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418969494775808
     List: []
   EventWwu:
@@ -358,7 +358,7 @@ MonoBehaviour:
       guid: b1963a7ffdd364499734d8333f14d13c
     ParentPath: Events\Default Work Unit
     guid: b1963a7ffdd364499734d8333f14d13c
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418969494775808
     List: []
   - PhysicalPath: Events\Factory Tencent GME.wwu
@@ -371,7 +371,7 @@ MonoBehaviour:
       guid: b1390e77527c2a44a4f7653ae6b0c847
     ParentPath: Events\Factory Tencent GME
     guid: b1390e77527c2a44a4f7653ae6b0c847
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418953624775808
     List:
     - name: Play_GME_Receive
@@ -453,7 +453,7 @@ MonoBehaviour:
       guid: c57f71006a8efa4393c31223612d1f36
     ParentPath: Game Parameters\Default Work Unit
     guid: c57f71006a8efa4393c31223612d1f36
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418969494775808
     List: []
   - PhysicalPath: Game Parameters\Factory Igniter Live Game Syncs.wwu
@@ -466,7 +466,7 @@ MonoBehaviour:
       guid: 7bcb7b9bba729142b50477f748886ea4
     ParentPath: Game Parameters\Factory Igniter Live Game Syncs
     guid: 7bcb7b9bba729142b50477f748886ea4
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418953624775808
     List:
     - name: IGN_Eng_Exh_Position
@@ -549,7 +549,7 @@ MonoBehaviour:
       guid: 006ae4824720f94892d401684c1325f6
     ParentPath: Game Parameters\Factory Igniter Live Synth Game Syncs
     guid: 006ae4824720f94892d401684c1325f6
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418953624775808
     List:
     - name: IgniterSynth_REV
@@ -590,7 +590,7 @@ MonoBehaviour:
       guid: 225213d7dbd1d042adc0930743567776
     ParentPath: Game Parameters\Factory Motion
     guid: 225213d7dbd1d042adc0930743567776
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585469096084775808
     List:
     - name: Playback_Rate
@@ -631,7 +631,7 @@ MonoBehaviour:
       guid: 5577163b42fb8b4598bf96f557afb3b9
     ParentPath: Game Parameters\Factory SoundSeed Air Game Syncs
     guid: 5577163b42fb8b4598bf96f557afb3b9
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585469096084775808
     List:
     - name: SS_Air_Fear
@@ -784,7 +784,7 @@ MonoBehaviour:
       guid: 97bdcb0b5177774a85bb6ac940f8cc3f
     ParentPath: Game Parameters\Factory SoundSeed Grain
     guid: 97bdcb0b5177774a85bb6ac940f8cc3f
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585469069874775808
     List:
     - name: Density_FA_SSGrain
@@ -882,7 +882,7 @@ MonoBehaviour:
       guid: 2e2105de4d55ef48967d42d000c47b9d
     ParentPath: States\Default Work Unit
     guid: 2e2105de4d55ef48967d42d000c47b9d
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418969494775808
     List: []
   SwitchWwu:
@@ -896,7 +896,7 @@ MonoBehaviour:
       guid: 446877e340a04f4e82b8162898d1d370
     ParentPath: Switches\Default Work Unit
     guid: 446877e340a04f4e82b8162898d1d370
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418969494775808
     List: []
   TriggerWwu:
@@ -910,12 +910,12 @@ MonoBehaviour:
       guid: 5c9621fbacd76648b5319d871076a50e
     ParentPath: Triggers\Default Work Unit
     guid: 5c9621fbacd76648b5319d871076a50e
-    GuidInternal: 
+    GuidInternal:
     m_lastTime: -8585418969494775808
     List: []
-  ExpandedFileSystemItemIds: 
+  ExpandedFileSystemItemIds:
   ExpandedWaapiItemIds: 030000000400000005000000140000001500000016000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
-  CurrentPluginConfig: 
+  CurrentPluginConfig:
